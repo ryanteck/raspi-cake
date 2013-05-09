@@ -1,2 +1,237 @@
 All text in here is for the box in the corner.
+<<Start>>
+>LIST PERSONNEL
 
+
+Gautam Babbar
+Ted Backman
+Kelly Bailey
+Jeff Ballinger
+Aaron Barber
+Jeep Barnett
+Jeremy Bennett
+Dan Berger
+Yahn Bernier
+Ken Birdwell
+Kerrick Birum
+Mike Blaszczak
+Iestyn Bleasdale-Shepherd
+Chris Bokitch
+Steve Bond
+Matt Boone
+Antonie Bourdon
+Jamaal Bradley
+Jason Brashill
+Charlie Brows
+Charlie Burgin
+Andrew Burke
+Augusta Butlin
+Julie Caldwell
+Dario Casali
+Chris Chin
+Jess Cliffe
+Phil Co
+John Cook
+Christen Coomer
+Greg Coomer
+Scott Dalton
+Kerry Davis
+Jason Deakins
+Joe Demers
+Ariel Diaz
+Quintin Drogquez
+Jim Does
+Chris Douglass
+Laura Dubuk
+Mike Dunjle
+Mike Durand
+Mike Dussault
+Dhabih Eng
+Katie Engel
+Chet Paliszek
+Adrian Finol
+Bill Fletcher
+Moby Francke
+Stephane Gaudette
+Kathy Gehrig
+Vitaly Genkin
+Paul Graham
+Chris Green
+Chris Gristead
+John Guthrie
+Aaron Halifax
+Reagan Halifax
+Leslie Hall
+Jess Hameluck
+Joe Ham
+Don Holden
+Jason Holtman
+Gray Horsfield
+Keith Huggins
+Jim Huges
+Jon Huisingh
+Brian Jacobson
+Lars Jensvold
+Erik Johnson
+Jakob Jungels
+Rich Kaethler
+Steve Kalning
+Aaron Kearly
+Tikka Keramen
+David Kircher
+Eric Kirchmer
+Scott Klintworth
+Alden Kroll
+Marc Laidlaw
+Jeff Lane
+Tim Larkin
+Dan LeFree
+Isabelle LeMay
+Tom Leonard
+Jeff Lind
+Doug Lombardi
+Bianca Loomis
+Richard Lord
+Realm Lovejoy
+Randy Lundeen
+Scott Lynch
+Ido Magal
+Nick Maggiore
+John McCaskey
+Patrick McClard
+Steve McClure
+Hamish McKenzie
+Gary McTaggart
+Jason Mitchell
+Mike Morasky
+John Morello II
+Brya Moslow
+Arsenio Navarro
+Gabe Newell
+Milton Ngan
+Jake Nicholson
+Martin Otten
+Nick Papineau
+Karen Prell
+Bay Raitt
+Tristan Reidford
+Alfred Reynolds
+Matt Thoten
+Garret Rickey
+Dave Riller
+Elan Ruskin
+Matthew Russell
+Jason Ruymen
+David Sawyer
+Marc Scaparro
+Wade Schin
+Matthew Scott
+Aaron Seeler
+Jennifer Seeley
+Taylor Sherman
+Eric Smith
+Jeff Sorensen
+David Speyrer
+Jey Stelly
+Jeremy Stone
+Eric Strand
+Kim Swift
+Kelly Thornton
+Eric Twelker
+Carl Uhlman
+Doug Valente
+Bill Van Buren
+Gabe Van Engel
+Alex Vlachos
+Robin Walker
+Joshua Weier
+Andrea Wicklund
+Greg Winkler
+Erik Wolpaw
+Doug Wood
+Matt T. Wood
+Danika Wright
+Matt Wright
+Shawn Zabecki
+Torsten Zabka
+
+
+
+
+'Still Alive' by
+Jonathan Coulton
+
+
+
+
+Voices:
+Ellen McLain - GLaDOS, Turrets
+Mike Patton - THE ANGER SPHERE
+
+
+
+Voice Casting:
+Shana Landsburg\Teri Fiddleman
+
+
+
+
+Voice Recording:
+Pure Audio, Seattle, WA
+
+
+
+
+Voice recording
+scheduling and logistics:
+Pat Cockburn, Pure Audio
+
+
+
+
+Translations:
+SDL
+
+
+
+
+Crack Legal Team:
+Liam Lavery
+Karl Quackenbush
+Kristen Boraas
+Kevin Rosenfield
+Alan Bruggeman
+Dennis Tessier
+
+
+
+Thanks for the use of their face:
+Alesia Glidewell - Chell
+
+Special thanks to everyone at:
+Alienware
+ATI
+Dell
+Falcon Northwest
+Havok
+SOFTIMAGE
+and Don Kemmism SLX Technologies
+
+Raspi-Cake Made By:
+Ryan Walmsley
+
+Raspi-Cake Special Thanks:
+Eben Upton, Liz Upton 
+& The Rest of the RasPi Team
+
+THANK YOU FOR PARTICIPATING
+IN THIS
+ENRICHMENT CENTER ACTIVITY!!
+
+
+
+
+
+
+
+<END>
