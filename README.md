@@ -1,7 +1,7 @@
 A Secret project to develop a Portal "Still Alive" Ending credits as an package for the Raspberry Pi.
 
-Language Going to be coded in: <<Unknown>>
-By: <<Subject Names Here>>
+Language Going to be coded in: Python OR Bash OR something else
+By: <Subject Names Here>
 
 
 To-Do List:
