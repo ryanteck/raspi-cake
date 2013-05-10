@@ -1,9 +1,9 @@
 All text in here is for the box in the corner.
 <<Start>>
->LIST PERSONNEL
+[1]>LIST PERSONNEL
 
 
-Gautam Babbar
+Gautam Babbar 
 Ted Backman
 Kelly Bailey
 Jeff Ballinger
@@ -34,7 +34,7 @@ Phil Co
 John Cook
 Christen Coomer
 Greg Coomer
-Scott Dalton
+[18]Scott Dalton
 Kerry Davis
 Jason Deakins
 Joe Demers
@@ -59,7 +59,7 @@ Paul Graham
 Chris Green
 Chris Gristead
 John Guthrie
-Aaron Halifax
+[33]Aaron Halifax
 Reagan Halifax
 Leslie Hall
 Jess Hameluck
@@ -120,7 +120,7 @@ Matt Thoten
 Garret Rickey
 Dave Riller
 Elan Ruskin
-Matthew Russell
+[57]Matthew Russell
 Jason Ruymen
 David Sawyer
 Marc Scaparro
@@ -158,13 +158,13 @@ Torsten Zabka
 
 
 
-'Still Alive' by
+[~63]'Still Alive' by
 Jonathan Coulton
 
 
 
 
-Voices:
+[~65]Voices:
 Ellen McLain - GLaDOS, Turrets
 Mike Patton - THE ANGER SPHERE
 
@@ -189,7 +189,7 @@ Pat Cockburn, Pure Audio
 
 
 
-Translations:
+[78]Translations:
 SDL
 
 
@@ -220,9 +220,9 @@ and Don Kemmism SLX Technologies
 Raspi-Cake Made By:
 Ryan Walmsley
 
-Raspi-Cake Special Thanks:
-Eben Upton, Liz Upton 
-& The Rest of the RasPi Team
+
+
+
 
 THANK YOU FOR PARTICIPATING
 IN THIS
