@@ -2,7 +2,7 @@
 #Designed to just echo out the lyrics to the console while in sync with the music.
 #Lets start!
 import time
-from subprocess import Popen
+import os
 import pygame
 
 file = 'stillalivehq.mp3'
@@ -15,7 +15,7 @@ def lyric( str ):
 	#time.sleep(1)
 	print "\033[38;5;208m" + str + "\033[0;00m"
 	return
-	
+os.system("clear")
 pygame.mixer.music.play()
 lyric("This was a triumph.")
 time.sleep(4)
@@ -98,23 +98,40 @@ time.sleep(7)
 lyric("Go ahead and leave me.")
 time.sleep(3.8)
 lyric("I think I prefer to stay inside.")
+time.sleep(5)
 lyric("Maybe you'll find someone else")
+time.sleep(4)
 lyric("to help you.")
+time.sleep(3.5)
 lyric("Maybe Black Mesa,")
+time.sleep(3.5)
 lyric("THAT WAS A JOKE. FAT CHANCE.")
+time.sleep(2)
 lyric("Anyway, this cake is great.")
+time.sleep(3)
 lyric("It's so delicious and moist.")
+time.sleep(3)
 lyric("Look at me still talking ")
+time.sleep(2)
 lyric("When there's Science to do.")
+time.sleep(2)
 lyric("When I look out there,")
+time.sleep(2)
 lyric("It makes me Glad I'm not you.")
+time.sleep(2)
 lyric("I've experiments to run.")
+time.sleep(2)
 lyric("There is research to be done.")
+time.sleep(2)
 lyric("On the people who are")
+time.sleep(2)
 lyric("still alive.")
+time.sleep(4)
 #pg4
 lyric("PS: And believe me I am")
+time.sleep(1.8)
 lyric("still alive.")
+time.sleep(1.8)
 lyric("PPs: I'm doing science and I'm")
 lyric("still alive.")
 lyric("PPPS: I feel FANTASTIC and I'm")
