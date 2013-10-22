@@ -15,7 +15,7 @@ pygame.mixer.music.load(file)
 def heard(phrase):
   print "them:" + phrase
 network.wait(whenHearCall=heard)
-time.sleep(10)
+#time.sleep(10)
 
 def lyric( str , tme):
   	"Lyrics printed out through this command should be orange"
@@ -93,7 +93,7 @@ lyric("Even though you broke my heart.",3)
 #time.sleep(3)
 lyric("And killed me.",3.5)
 #time.sleep(3.5)
-network.say("4") # Kaboom
+network.say("kab") # Kaboom
 lyric("And tore me to pieces.",3.5)
 #time.sleep(3.5)
 network.say("8") # Fire
@@ -166,7 +166,7 @@ lyric("On the people who are",2)
 lyric("still alive.",2)
 #time.sleep(2)
 os.system("clear")
-time.sleep(1)
+#time.sleep(1)
 #pg4
 lyric("PS: And believe me I am",1.5)
 #time.sleep(1.5)
@@ -190,10 +190,10 @@ lyric("And when you're dead I will be",1.8)
 #time.sleep(1.8)
 lyric("still alive.",2)
 #time.sleep(2)
-lyric("STILL ALIVE",1)
+lyric("STILL ALIVE",2)
 #time.sleep(1)
 os.system("clear")
-network.say("0") # Raspi
+network.say("10") # Raspi
 while pygame.mixer.music.get_busy():
   pygame.time.Clock().tick(10)
 
